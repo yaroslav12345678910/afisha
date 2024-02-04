@@ -1,0 +1,27 @@
+.header {
+    width: 1920px;
+    height: 164px;
+}
+
+
+.header_line {
+    width: 1920px;
+    height: 104px;
+    background-color: black;
+}
+
+.menu {
+    margin-left: 850px;
+    margin-top: -32px;
+}
+
+.btn_menu {
+    text-decoration: none;
+    color: white;
+    margin-right: 8dvh;
+}
+
+.logo {
+    margin-top: 30px;
+    margin-left: 300px;
+}
