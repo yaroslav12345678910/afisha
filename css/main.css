@@ -15,13 +15,246 @@
     margin-top: -32px;
 }
 
+.btn_menu:hover {
+    color:aquamarine;
+}
+
 .btn_menu {
     text-decoration: none;
     color: white;
-    margin-right: 8dvh;
+    margin-right: 80px;
+    font-family: 'Fira Sans', sans-serif;
+    transition: color 0.2s linear;
 }
 
 .logo {
     margin-top: 30px;
     margin-left: 300px;
+}
+
+.main {
+    width: 1296px;
+    height: 497px;
+}
+
+.concert1 {
+    margin-left: 300px;
+}
+
+.concert2 {
+    box-sizing: border-box;
+    width: 416px;
+    height: 104px;
+    margin-left: 1200px;
+    margin-top: -500px;
+    background-color: #1919190D;
+    padding-top: 12px;
+    padding-left: 20px;
+    border-radius: 8px;
+
+}
+
+.image_concert {
+    border-radius: 8px;
+}
+
+.main_text {
+    font-family: 'Fira Sans', sans-serif;
+    padding-left: 50px;
+
+}
+
+.text {
+    margin-top: -50px;
+    margin-left: 60px;
+}
+
+.concert3 {
+    box-sizing: border-box;
+    width: 416px;
+    height: 104px;
+    margin-left: 1200px;
+    background-color: #1919190D;
+    border-radius: 8px;
+    margin-top: 20px;
+    padding-top: 12px;
+    padding-left: 20px;
+}
+
+.main_text2 {
+    font-family: 'Fira Sans', sans-serif;
+    padding-left: 110px;
+}
+
+.text2 {
+    margin-top: -50px;
+}
+
+.text_afisha {
+    font-family: 'EB Garamond', serif;
+    font-size: 48px;
+}
+
+.afisha_section {
+    margin-left: 300px;
+    margin-top: 250px;
+}
+
+.all_party {
+    margin-left: 1400px;
+    margin-top: -40px;
+}
+
+.all_party_text {
+    font-family: 'EB Garamond', serif;
+    font-size: 24px;
+}
+
+.txt_party {
+    margin-left: 1475px;
+    margin-top: -32px;
+}
+
+.party1 {
+    background-color: #1919190D;
+    width: 1296px;
+    height: 304px;
+    margin-top: 150px;
+    margin-left: 300px;
+    border-radius: 8px;
+}
+
+.number1 {
+    font-family: 'EB Garamond', serif;
+    font-size: 64px;
+    
+}
+
+.month1 {
+    font-family: 'EB Garamond', serif;
+    font-size: 32px;
+}
+
+.photo1 {
+    padding-top: 33px;
+    padding-left: 200px;
+
+}
+
+.num-month1 {
+    display: flex;
+    margin-top: -160px;
+    flex-direction: column;
+    margin-left: 80px;
+}
+
+.month1 {
+    margin-left: -20px;
+}
+
+.names_party {
+    display: flex;
+    margin-left: 500px;
+    flex-direction: column;
+    margin-top: -150px;
+}
+
+.name_party1 {
+    font-family: 'EB Garamond', serif;
+    font-size: 32px;
+}
+
+.name_party2 {
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.icons {
+    margin-top: 50px;
+}
+
+.icon {
+    margin-right: 80px;
+}
+
+.text_limit {
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    margin-right: 70px;
+}
+
+.icon_texts {
+    margin-left: 57px;
+    margin-top: -27px;
+}
+
+.party2 {
+    background-color: #1919190D;
+    width: 1296px;
+    height: 304px;
+    margin-top: 150px;
+    margin-left: 300px;
+    border-radius: 8px;
+    margin-top: 50px;
+}
+
+.buy_ticket {
+    box-sizing: border-box;
+    width: 175px;
+    height: 51px;
+    background-color: #05B093;
+    border-radius: 50px;
+    padding-top: 16px;
+    margin-left: 450px;
+    margin-top: -125px;
+    transition: 0.3s linear;
+}
+
+
+.btn_for_buy {
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    text-decoration: none;
+    color: white;
+    margin-left: 30px;
+}
+
+.buy_ticket:hover {
+    background-color: rgb(145, 145, 145);
+}
+
+.news_text {
+    font-family: 'EB Garamond', serif;
+    font-weight: 700;
+    font-size: 48px;
+}
+
+.news_section {
+    margin-top: 175px;
+    margin-left: 295px;
+}
+
+.image_event_cancellation1 {
+    margin-top: 80px;
+    margin-left: 295px;
+}
+
+.cancel1 {
+    border-radius: 12px;
+}
+
+.text_event_cancellation1 {
+    font-family: 'EB Garamond', serif;
+    font-size: 24px;
+    font-weight: 700;
+    margin-top: 40px;
+}
+
+.text_event2 {
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
 }
