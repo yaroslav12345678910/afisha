@@ -258,3 +258,59 @@
     font-weight: 400;
     font-size: 16px;
 }
+
+.news_section2 {
+    margin-top: -200px;
+}
+
+.image_event_cancellation3 {
+    margin-left: 650px;
+    margin-top: -390px;
+}
+
+.calendar_bg {
+    margin-top: -525px;
+    margin-left: 1050px;
+}
+
+.calendar_text {
+    width: 526px;
+    height: 264px;
+    background-color: #1919190D;
+    margin-left: 1050px;
+    margin-top: -220px;
+}
+
+.calendar {
+    width: 304px;
+    height: 216px;
+    margin-left: 1250px;
+}
+
+.calendar2 {
+    margin-top: 20px;
+}
+
+.text_cal {
+    font-family: 'EB Garamond', serif;
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.calendar_text {
+    padding-top: 40px;
+    padding-left: 30px;
+}
+
+.left-right {
+    margin-left: 1080px;
+    margin-top: -110px;
+}
+
+.ltl_ann {
+    margin-left: 280px;
+    padding-top: -500px;
+    font-family: 'EB Garamond', serif;
+    font-weight: 700;
+    font-size: 48px;
+}
